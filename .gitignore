@@ -1,0 +1,7 @@
+build/
+testrun/
+*.suo
+*.user
+*.pdb
+bin/
+obj/
